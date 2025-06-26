@@ -16,7 +16,5 @@ Conclusion
 This project serves as a foundational setup for developers looking to create mobile applications using React Native and Expo, streamlining the development process and enhancing productivity.
 
 
-Bookmark message
-Copy message
-Export
+
 
